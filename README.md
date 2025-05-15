@@ -1,1 +1,5 @@
-Hi There! I'm Shoaib Shafqat. A Full Stack Web Developer having specialization in back end & front end development. I have 9+ years of experience in Web Development having strong WordPress & WooCommerce Skills. I have Backend Skills in Laravel, cakePHP, WordPress, PHP. I also have Frontend Skills in Javascript, VueJS, Web Components & StencilJS, CSS / SASS, Bootstrap & Foundation.
+Hi There! I'm Sujal Sodha. A Full Stack Web Developer having specialization in back-end &
+              front-end development. I have 2+ years of experience in Web
+              Development having strong Laravel Skills. I also have Frontend
+              Skills in Javascript, Jquery, ReactJs, VueJs, Web Components, CSS / SASS,
+              Bootstrap.
